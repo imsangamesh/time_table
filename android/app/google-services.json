@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "594631846081",
+    "project_id": "time-table-fb19d",
+    "storage_bucket": "time-table-fb19d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594631846081:android:61eff5efdbfe53a278cc40",
+        "android_client_info": {
+          "package_name": "info.anantshri.timetable"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594631846081-ne04j67bg5l9r022abra66hinis1i5ub.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "info.anantshri.timetable",
+            "certificate_hash": "14b33145fa7e870f5ea8469aa609c3df8949ed53"
+          }
+        },
+        {
+          "client_id": "594631846081-2sbsigu44u57m9hf23773ul464kj2lls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrAJjUJmj78OckzgkSpRiK_KXnEWqiKds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594631846081-2sbsigu44u57m9hf23773ul464kj2lls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
